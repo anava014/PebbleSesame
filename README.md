@@ -3,7 +3,7 @@ A remote control door unlocked from a Pebble Smart Watch
 
 Youtube Video: https://youtu.be/uxB4fb8dUpM
 
-So, whether you've done it, you do it often, or you'll do it in the future; Imagine yourself working on your programming assignment and you are just so concentrated. All your ideas are coming to your head when suddenly, your doorbell rings. Oh no, that means you have to get up, run to your door, at 'worst' case allow the person inside, run back to your room and hope that all your thought intact by the time you get to your chair. If not programming, then picture your favorite hobby being unfavorably interrupted. 
+So, whether you've done it, you do it often, or you'll do it in the future; Imagine yourself working on your programming assignment and you are just so concentrated. All your ideas are coming to your head when suddenly, your doorbell rings. Oh no, that means you have to get up, run to your door, at 'worst' case allow the person inside, run back to your room and hope that all your thoughts were intact by the time you get to your chair. If not programming, then picture your favorite hobby being unfavorably interrupted. 
 
 We've all been there; Pebble Sesame is here to help!
 
